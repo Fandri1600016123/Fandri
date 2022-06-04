@@ -1,2 +1,0 @@
-# Fandri
-For EXAM
